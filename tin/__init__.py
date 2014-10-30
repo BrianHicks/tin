@@ -10,3 +10,4 @@ def cli(config):
 
 from . import new
 from . import setup
+from . import process
